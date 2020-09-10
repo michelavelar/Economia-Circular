@@ -26,7 +26,7 @@ header {
 	padding: 70px 0 0;
 	margin-top: 90px;
 	margin-bottom: 0 !important;
-	background: url('../pt/images/bg-slide-forum.png') repeat-x bottom center;
+	background: url('../images/bg-slide-forum.png') repeat-x bottom center;
 	background-size: auto 89%
 }
 
@@ -94,7 +94,7 @@ a { color: #00A7E5 }
 
 .main.navbar-shrink {
 	/* width: 100%; */
-	background-image: url('../pt/images/logo-top-forum.png');
+	background-image: url('../images/logo-top-forum.png');
 	background-repeat: no-repeat;
 	background-size: auto 100%;
 	background-position: 0 100%;
@@ -250,19 +250,19 @@ content: '';
 }
 
 .card-1 {
-  background-image: url('../pt/images/slide01.jpg');
+  background-image: url('../images/slide01.jpg');
 }
 
 .card-2 {
-  background-image: url('../pt/images/slide02.jpg');
+  background-image: url('../images/slide02.jpg');
 }
 
 .card-3 {
-  background-image: url('../pt/images/slide03.jpg');
+  background-image: url('../images/slide03.jpg');
 }
 
 .card-4 {
-  background-image: url('../pt/images/slide04.jpg');
+  background-image: url('../images/slide04.jpg');
 }
 
 
@@ -281,11 +281,11 @@ content: '';
 
 
 #presidente .viewMore[aria-expanded="false"]:before{
-  content:"Leia mais";
+  content:"Lea mas";
 }
 
 #presidente .viewMore[aria-expanded="true"]:before{
-  content:"Fechar";
+  content:"Cerca";
 }
 
 #sobre-forum {
@@ -294,7 +294,7 @@ content: '';
 }
 
 /* #banner{
-	background: url('../pt/images/bg-banner.jpg') repeat-x top center ;
+	background: url('../images/bg-banner.jpg') repeat-x top center ;
 	background-size:  auto 100%
 } */
 
@@ -413,7 +413,7 @@ RESPONSIVO
 		column-gap: 60px;
 	}
 	#banner{
-		background: url('../pt/images/bg-banner.jpg') repeat-x bottom center ;
+		background: url('../images/bg-banner.jpg') repeat-x bottom center ;
 		background-size:  auto 104%
 	}
 	.cards__container {
